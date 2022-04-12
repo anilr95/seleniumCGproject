@@ -1,0 +1,10 @@
+com\seleniumbyAkash\java\TestScriptJunit.class
+base\TestBase.class
+manager\DriverManager.class
+PageObjectsFactory\signupPageObjectFactory.class
+com\seleniumbyAkash\java\TestScriptsRegister.class
+PageObjectsFactory\TestScriptJUnitPageFactory.class
+com\seleniumbyAkash\java\BasicSelenium.class
+pageObjects\SignUpPageObjects.class
+pageObjects\TestScriptJUnit.class
+pageObjects\RegisterPageObjects.class
